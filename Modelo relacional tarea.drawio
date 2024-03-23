@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T03:52:28.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.0.8" etag="42KC4AETUlc1H0ZYz5Wz" type="github">
-  <diagram name="Página-1" id="wQe0EGdjCLZnHoaCI0Wc">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-03-23T03:57:23.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5TellBiTQ_VIOyzBXrnw" version="24.0.8" type="github">
+  <diagram name="Tienda C." id="wQe0EGdjCLZnHoaCI0Wc">
+    <mxGraphModel dx="192" dy="243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xqDM9limEua8HDSkZ0b2-1" value="Tienda_C" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xqDM9limEua8HDSkZ0b2-2" value="id_tienda_c&lt;br&gt;nombre_tienda&lt;br&gt;&lt;div&gt;direccion&lt;/div&gt;&lt;div&gt;logo&lt;/div&gt;&lt;div&gt;id_producto&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="xqDM9limEua8HDSkZ0b2-1">
+          <mxGeometry y="50" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xqDM9limEua8HDSkZ0b2-10" value="PK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="238" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xqDM9limEua8HDSkZ0b2-11" value="varchar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xqDM9limEua8HDSkZ0b2-12" value="varchar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="268" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xqDM9limEua8HDSkZ0b2-14" value="Varchar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xqDM9limEua8HDSkZ0b2-15" value="FK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="298" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
